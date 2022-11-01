@@ -1,1 +1,2 @@
-# deli_mapbox
+# Delimobil wrapper for Mapbox Android SDK 9.6.0 (https://docs.mapbox.com/android/maps/guides/)
+# Use your Mapbox secret token you stored in gradle.properties as MAPBOX_DOWNLOADS_TOKEN at settings.gradle
